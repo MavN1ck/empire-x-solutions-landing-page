@@ -1,6 +1,6 @@
 # React + TypeScript + Vite
 
-This is a landing page for agency website.
+This is a landing page for agency.
 
 Currently, two official plugins are available:
 
