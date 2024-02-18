@@ -1,6 +1,8 @@
-import Growth from "../../assets/growth.svg";
 import SectionLayout from "../../layouts/SectionLayout";
 import ServiceCard from "./ServiceCard";
+import security from "../../assets/security.webp"
+import design from "../../assets/designservice.webp"
+import development from "../../assets/development.webp"
 
 const ServicesSection = () => {
   const servicesCardData = [
@@ -8,19 +10,19 @@ const ServicesSection = () => {
       cardTitle: "Tailor-made Design",
       cardDescription:
         "We provide visually appealing tailored design services to help you create the perfect design for your business.",
-      cardImage: Growth,
+      cardImage: design,
     },
     {
       cardTitle: "High End Development",
       cardDescription:
         "We develop websites that wow and apps that engage utilising cutting edge technologies to bring your ideas to life.",
-      cardImage: Growth,
+      cardImage: development,
     },
     {
       cardTitle: "Ultimate Security",
       cardDescription:
         "Safeguard your digital assets with out robust security offerings comprising of VAPT, Audits and Risk Management.",
-      cardImage: Growth,
+      cardImage: security,
     },
   ];
 

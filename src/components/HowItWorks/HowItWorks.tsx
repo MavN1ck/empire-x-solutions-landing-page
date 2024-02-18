@@ -9,19 +9,19 @@ const HowItWorks = () => {
     {
       title: "Tell us your vision",
       description:
-        "Choose a plan and share your design project details with us: we’re here to listen.",
+        "Choose a plan and share your project details with us: we’re here to listen.",
       image: Vision,
     },
     {
       title: "Receive the magic",
       description:
-        "Sit back and relax: our expert designers will turn your vision into reality.",
+        "Sit back and relax: our experts will turn your vision into reality.",
       image: Magic,
     },
     {
       title: "Get ongoing support",
       description:
-        "Your subscription ensures you have continuous access to our design team.",
+        "Your subscription ensures you have continuous access to our team.",
       image: Support,
     },
   ];
