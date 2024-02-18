@@ -13,13 +13,13 @@ const ServicesSection = () => {
     {
       cardTitle: "High End Development",
       cardDescription:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et",
+        "We develop websites that wow and apps that engage utilising cutting edge technologies to bring your ideas to life.",
       cardImage: Growth,
     },
     {
       cardTitle: "Ultimate Security",
       cardDescription:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et",
+        "Safeguard your digital assets with out robust security offerings comprising of VAPT, Audits and Risk Management.",
       cardImage: Growth,
     },
   ];

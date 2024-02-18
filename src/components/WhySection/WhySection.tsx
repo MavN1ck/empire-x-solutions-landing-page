@@ -1,5 +1,9 @@
 import SectionLayout from "../../layouts/SectionLayout";
 import WhyUsRows from "./WhyUsRows";
+import Solutions from "../../assets/solutions.svg";
+import Innovation from "../../assets/innovation.svg";
+import Client from "../../assets/client.svg";
+import Expertise from "../../assets/expertise.svg";
 
 const WhySection = () => {
   const whyUsFirstRow = [
@@ -7,13 +11,13 @@ const WhySection = () => {
       title: "Customized Solutions",
       description:
         "We tailor our solutions to meet your specific needs and objectives, ensuring that you get the results you need to succeed.",
-      icon: "",
+      icon: Solutions,
     },
     {
       title: "Expertise",
       description:
         "With years of experience in the industry, our team of experts brings a wealth of knowledge and expertise to every project.",
-      icon: "",
+      icon: Expertise,
     },
   ];
 
@@ -22,13 +26,13 @@ const WhySection = () => {
       title: "Client-Centric Approach",
       description:
         "We're dedicated to building long-term relationships based on trust, transparency, and mutual respect. Your success is our success.",
-      icon: "",
+      icon: Client,
     },
     {
       title: "Innovation",
       description:
         "We're always pushing the boundaries of what's possible. We're always looking for ways to innovate and add value to our clients' businesses.",
-      icon: "",
+      icon: Innovation,
     },
   ];
 

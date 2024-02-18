@@ -1,5 +1,8 @@
-import PersonPlaceholder from "../../assets/person-placeholder.webp";
+;
 import SectionLayout from "../../layouts/SectionLayout";
+import Mission from "../../assets/mission.webp";
+import Values from "../../assets/values.webp";
+import Team from "../../assets/team.webp";
 
 const AboutUs = () => {
   const aboutUsData = [
@@ -7,19 +10,19 @@ const AboutUs = () => {
       title: "Our Mission",
       description:
         "At Empire X Solutions, our mission is to provide reliable and efficient IT services to businesses of all sizes. We strive to help our clients achieve their goals and grow their businesses by leveraging the latest technologies and best practices.",
-      image: PersonPlaceholder,
+      image: Mission,
     },
     {
       title: "Our Team",
       description:
         "Our team of seasoned IT and Security professionals is dedicated to providing exceptional service and support to our clients. We are committed to staying up-to-date with the latest technologies and trends in the industry to ensure that out clients receive the best possible solutions.",
-      image: PersonPlaceholder,
+      image: Team,
     },
     {
       title: "Our Values",
       description:
         "Empire X Solutions is built on core values: integrity, excellence, and collaboration. These principles guide our daily actions, emphasizing transparency, honesty, and top-notch service to clients. Our culture fosters teamwork and leverages collective expertise for innovative solutions that truly matter.",
-      image: PersonPlaceholder,
+      image: Values,
     },
   ];
 
